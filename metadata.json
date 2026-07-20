@@ -1,0 +1,6 @@
+{
+  "name": "Capacitor Starter",
+  "description": "A React and Vite project converted into an Android Studio Capacitor project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
